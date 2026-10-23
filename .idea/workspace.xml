@@ -4,14 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5340ae1e-54e7-445d-bd7a-466080a15ee2" name="Changes" comment="">
+    <list default="true" id="5340ae1e-54e7-445d-bd7a-466080a15ee2" name="Changes" comment="new project">
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/Test_Assignment2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/Test_CSSDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/Test_LocatorPracticeDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/Test_OrangeHRMLogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/test_CSSassignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/test_busBook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/test_checkboxDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/test_dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/test_dropdowndemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaywrightTestCases/test_radioDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonPlaywright.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonPlaywright.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PlaywrightTestCases/test_PWLocators.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlaywrightTestCases/test_PWLocators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlaywriteTestCases/test_TC001.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlaywrightTestCases/test_TC001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -52,21 +72,29 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for PlaywrightTestCases.Test_OrangeHRMLogin.test_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_PWLocators.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_PWLocators.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/PythonPrograms/PlaywrightTestCases&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/PythonPrograms&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\PythonPrograms" />
       <recent name="C:\Users\Admin\PycharmProjects\PythonPrograms\PlaywrightTestCases" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test_PWLocators">
     <configuration name="test_PWLocators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,8 +117,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for PlaywrightTestCases.Test_OrangeHRMLogin.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPlaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PlaywrightTestCases.Test_OrangeHRMLogin.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_PWLocators.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PlaywrightTestCases/test_PWLocators.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for PlaywrightTestCases.Test_OrangeHRMLogin.test_login" />
+        <item itemvalue="Python tests.pytest in test_PWLocators.py" />
         <item itemvalue="Python.test_PWLocators" />
       </list>
     </recent_temporary>
@@ -110,6 +172,15 @@
       <option name="presentableId" value="Default" />
       <updated>1792260437259</updated>
     </task>
+    <task id="LOCAL-00001" summary="new project">
+      <option name="closed" value="true" />
+      <created>1792263646743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792263646743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,5 +193,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project" />
   </component>
 </project>
